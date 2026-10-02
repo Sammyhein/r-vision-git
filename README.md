@@ -34,6 +34,7 @@ start index.html
 - Bouton + pour augmenter le compteur
 - Bouton - pour diminuer le compteur
 - Bouton reset pour remettre à zéro
+- Mode sombre (dark mode)
 
 ## Contribuer
 
