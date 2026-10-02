@@ -16,18 +16,27 @@ Ce projet est un compteur interactif qui permet d'incrementer, décrémenter et 
 
 1. Cloner le repo
 
-git clone https://github.com/Sammyhein/r-vision-git.git
-cd r-vision-git
+   ```bash
+   git clone https://github.com/Sammyhein/r-vision-git.git
+   ```
+
+   ```bash
+   cd r-vision-git
+   ```
 
 2. Ouvrir index.html dans votre navigateur
 
-MACOS :
+   MACOS :
 
-open index.html
+   ```bash
+   open index.html
+   ```
 
-PC :
+   PC :
 
-start index.html
+   ```bash
+   start index.html
+   ```
 
 ## Fonctionnalités
 
